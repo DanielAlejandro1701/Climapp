@@ -29,16 +29,29 @@ Get current weather conditions in real-time based on your location, or search fo
  >La aplicación muestra la velocidad del viento, la humedad y la sensación térmica de la ubicación.
 <br>
 
+<p align="center">
+  <img src="https://i.imgur.com/O0olK3K.gif" width="336" height="748" align = "center">
+</p>
+<br>
+
+
+
+
+
 ## Screenshots from the APP/ Capturas de la aplicacion
 <br>
 <br>
+<p align="center">
+  <img src="https://i.imgur.com/nPdgKco.png" width="336" height="748" align = "center">
+</p>
+<br>
+<br>
+<p align="center">
+  <img src="https://i.imgur.com/iFg2RdD.png" width="336" height="748"> 
+</p>
 
 
-<img src="https://i.imgur.com/nPdgKco.png" width="336" height="748" align = "center">
-<br>
-<br>
-<img src="https://i.imgur.com/iFg2RdD.png" width="336" height="748"> 
-<br>
+
 
 ## Reach out to me / Contactame
 
